@@ -1,7 +1,7 @@
 ## Vit0rG0mes 👋
 
 - 🌱 I’m currently learning in UFC - Information Security
-- 🔭 I’m currently working on  CEREIA Project
+- 🔭 I’m currently working on  PIBIC
 
 ##Ferramentas e Tecnologias
 
