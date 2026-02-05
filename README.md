@@ -9,14 +9,19 @@
 
 ## Contacts:
 
-<div>
-<a href="https://instagram.com/_vitor_vasconcelos" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "vmg.vasconcelos@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/vitor-manuel-gomes-vasconcelos-b96b6b23a/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/Vit0rG0mes"> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vit0rG0mes&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Vit0rG0mes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<div align="left">
+  <a href="https://instagram.com/_vitor_vasconcelos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:vmg.vasconcelos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/vitor-manuel-gomes-vasconcelos-b96b6b23a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Vit0rG0mes" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 
+  <br><br>
+
+  <a href="https://github.com/Vit0rG0mes">
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vit0rG0mes&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=Vit0rG0mes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
   <!--
 **Vit0rG0mes/Vit0rG0mes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
