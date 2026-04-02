@@ -1,7 +1,7 @@
 ## Vit0rG0mes 👋
 
-- 🌱 I’m currently learning in UFC - Information Security
-- 🔭 I’m currently working on  PIBIC
+- 🌱 I hold a bachelor’s degree in Information Security
+- 🌱 I’m currently learning in UFC - master’s degree in Computer Science – Software Engineering
 
 ## Tools and Technologies
 
